@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TinyHustlr
-- 👀 I’m interested in content creation, science, marketing, gaming and coding
-- 🌱 I’m currently learning HTML, CSS and JS thrugh Scrimba
-- 📫 How to reach me youtube.com/snappyscience
+- 👀 I’m interested in coding, content creation, science, marketing, gaming and coding
+- 🌱 I’m currently learning HTML, CSS, JS and React through Scrimba
+- 📫 How to reach me linkedin.com/in/davidworeilly or view my content at youtube.com/snappyscience
 
 <!---
 TinyHustlr/TinyHustlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
