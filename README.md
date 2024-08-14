@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TinyHustlr
 - 👀 I’m a marketer, content creator, scientist, and gamer
 - 🌱 I’m currently learning HTML, CSS, JS and React through Scrimba
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/davidworeilly) or view my [Minimum Viable Pizza](https://www.youtube.com/@miniumumviablepizza) YouTube Channel
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/davidworeilly) or view my [Minimum Viable Pizza](https://www.youtube.com/@minimumviablepizza) YouTube Channel
 
 <!---
 TinyHustlr/TinyHustlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
